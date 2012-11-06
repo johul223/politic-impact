@@ -246,6 +246,8 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\Case\Create.cshtml" />
     <Content Include="Views\Shared\_LayoutNoPageDiv.cshtml" />
+    <Content Include="Views\Case\Create1.cshtml" />
+    <Content Include="Views\Case\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
