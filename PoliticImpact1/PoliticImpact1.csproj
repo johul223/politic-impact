@@ -143,6 +143,8 @@
     <Content Include="Content\images\icons-18-white.png" />
     <Content Include="Content\images\icons-36-black.png" />
     <Content Include="Content\images\icons-36-white.png" />
+    <Content Include="Content\images\share-email.png" />
+    <Content Include="Content\images\share-facebook.png" />
     <Content Include="Content\jquery.mobile-1.1.0.css" />
     <Content Include="Content\jquery.mobile-1.1.0.min.css" />
     <Content Include="Content\jquery.mobile.structure-1.1.0.css" />
@@ -248,6 +250,7 @@
     <Content Include="Views\Shared\_LayoutNoPageDiv.cshtml" />
     <Content Include="Views\Case\Create1.cshtml" />
     <Content Include="Views\Case\Details.cshtml" />
+    <Content Include="Views\SharePopup\SharePopup.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
