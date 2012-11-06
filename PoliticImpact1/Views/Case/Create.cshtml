@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_LayoutNoPageDiv.cshtml";
+}
+
+        
+<div data-role="page" data-theme="b">
+    <div data-role="header">
+        <h1>@ViewBag.Title</h1>
+    </div>
+    <div data-role="content">
+        <form action="/Case/Create" method="post">
+            <input type="hidden" id="CaseOwner" name="CaseOwner"/>
+            <input type="text" id="CaseTitle" name="CaseTitle" placeholder="Title of the case"/>
+            <textarea id="CaseDescription" name="CaseDescription" placeholder="Description"></textarea>
+            <input type="email" id="CaseReicever" name="CaseReicever" placeholder="Mail to reicever" />
+            <input type="datetime" id="CaseDeadline" name="CaseDeadline" placeholder="xxxx-xx-xx xx:xx:xx"/>
+            <button type="submit">Save</button>
+        </form>
+    </div>
+</div>
