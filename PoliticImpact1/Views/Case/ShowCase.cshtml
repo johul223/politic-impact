@@ -16,8 +16,12 @@
    
     <button type="button" > <img src="~/Content/images/share-email.png" width="75" height="75" /> </button> *@
  @* Här ska länkningen till _viewstart fixas*@
-     <a href ="~/Views/_ViewStart.cshtml" > <img src="~/Content/images/share-email.png" width="75" height="75" /> </a>
+    <a href="#popupLogin" data-rel="popup">
+        <img src="~/Content/images/share-email.png" width="75" height="75" id="ShowPopup" />
+    </a>
     <input type="submit" value="Share" />
 
 
-</fieldset>
+</fieldset> 
+
+@{ Html.RenderPartial("~/Views/SharePopup/SharePopup.cshtml"); }
