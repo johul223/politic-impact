@@ -251,6 +251,7 @@
     <Content Include="Views\Case\Create1.cshtml" />
     <Content Include="Views\Case\Details.cshtml" />
     <Content Include="Views\SharePopup\SharePopup.cshtml" />
+    <Content Include="Views\Case\ShowCase.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

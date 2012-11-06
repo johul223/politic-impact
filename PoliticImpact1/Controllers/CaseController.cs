@@ -25,5 +25,10 @@ namespace PoliticImpact1.Controllers
         {
             return View();
         }
+
+        public ActionResult ShowCase()
+        {
+            return View();
+        }
     }
 }
