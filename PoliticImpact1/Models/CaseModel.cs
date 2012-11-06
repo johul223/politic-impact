@@ -13,6 +13,9 @@ namespace PoliticImpact1.Models
 {
     public class CaseModel
     {
+        /*
+         * Variables from "Dropbox/Arkitektur/tables.doc"
+         * */
         public int ID { get; set; }
         public long Owner { get; set; }
         public string Title { get; set; }
