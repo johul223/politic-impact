@@ -45,7 +45,7 @@ namespace PoliticImpact1.Models
 
         public byte[] imageBytes { get; set; }
 
-        public string photoName { get; set; }
+        public string imageName { get; set; }
     }
 
 }
