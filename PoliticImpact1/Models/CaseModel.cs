@@ -8,7 +8,7 @@ using System.Web;
  * Created by: Johannes Dahlgren
  * Created at: 6/11 2012
  */
-
+//testar att lägga till en rad
 namespace PoliticImpact1.Models
 {
     public class CaseModel
