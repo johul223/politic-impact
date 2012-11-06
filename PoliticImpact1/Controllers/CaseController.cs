@@ -15,8 +15,13 @@ namespace PoliticImpact1.Controllers
         {
             return View();
         }
-        [HttpPost]
+        //[HttpPost]
         public ActionResult Create()
+        {
+            return View();
+        }
+
+        public ActionResult Create1()
         {
             return View();
         }
