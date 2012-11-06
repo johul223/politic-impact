@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>JQM popup test</title>
+        
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+        <!--<link rel="stylesheet"
+            href="http://jquerymobile.com/branches/popup-widget/css/themes/default/jquery.mobile.css"/>
+        <script src="http://jquerymobile.com/branches/popup-widget/js/jquery.js"></script>
+        <script src="http://jquerymobile.com/branches/popup-widget/js/"></script>
+        -->
+</head>
+
+<h2>Index</h2>
+
+
+
+<a href="#popupLogin" data-rel="popup" data-role="button" data-inline="true" data-position-to="window">Form</a>
+<div data-role="popup" id="popupLogin" data-overlay-theme="b" data-theme="a" class="ui-corner-all" data-position-to="window">
+			<form>
+				<div style="padding:10px 20px;" >
+				  <h3>Share</h3>
+                    <a href="venta.html" data-theme="" id="ventaOption"> <img src="/Content/images/share-facebook.png" width="64" height="64"></a>
+                    <a href="venta.html" data-theme="" id="lol"> <img src="/Content/images/share-email.png" width="64" height="64"></a>
+				</div>
+			</form>
+		</div>
