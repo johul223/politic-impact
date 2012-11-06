@@ -40,6 +40,12 @@ namespace PoliticImpact1.Models
         [Required]
         [DataType(DataType.DateTime)]
         public DateTime LastEdited { get; set; }
+
+        public int imageId { get; set; }
+
+        public byte[] imageBytes { get; set; }
+
+        public string photoName { get; set; }
     }
 
 }
