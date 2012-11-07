@@ -1,3 +1,4 @@
-﻿$('#ShowPopup').on('click', function () {
-    $('#popupLogin').popup('open');
+﻿//Frida Mattisson & Michaela Ulvhammar
+$('#ShowPopup').on('click', function () {
+    $('#').popup('open');
 })
