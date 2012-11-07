@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Web
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticImpact1", "PoliticImpact1\PoliticImpact1.csproj", "{DA54E3FD-6151-4ECB-8D6F-14BFF8225483}"
 EndProject
 Global
