@@ -12,6 +12,6 @@
     });
     return false;
 }
-/*@Scripts.Render("~/Scripts/publishStory.js")
+/*@Scripts.Render("~/Scripts/facebookPublish.js")
 @Scripts.Render("~/Scripts/facebookConnect.js")
 <a href="#" onclick="publishStory();">Publish feed story</a><br>*/
