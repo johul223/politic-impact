@@ -1,40 +1,40 @@
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\PoliticImpact.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\PoliticImpact.pdb
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\Antlr3.Runtime.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\EntityFramework.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\Newtonsoft.Json.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Net.Http.Formatting.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Helpers.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Http.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Http.WebHost.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Mvc.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Optimization.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Providers.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Razor.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.WebPages.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.WebPages.Razor.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\WebGrease.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\EntityFramework.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\Newtonsoft.Json.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Net.Http.Formatting.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Helpers.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Http.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Http.WebHost.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Mvc.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.Razor.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.WebPages.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\bin\System.Web.WebPages.Razor.xml
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.csprojResolveAssemblyReference.cache
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.InitialCreate.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem1.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem2.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem3.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem4.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem5.resources
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.csproj.GenerateResource.Cache
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.dll
-C:\Users\Johannes\Documents\GitHub\politic-impact\PoliticImpact\obj\Debug\PoliticImpact.pdb
+c:\users\johannes\documents\visual studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.csprojResolveAssemblyReference.cache
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\PoliticImpact.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\PoliticImpact.pdb
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\Antlr3.Runtime.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\EntityFramework.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\Newtonsoft.Json.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Net.Http.Formatting.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Helpers.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Http.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Http.WebHost.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Mvc.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Optimization.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Providers.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Razor.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.WebPages.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.WebPages.Razor.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\WebGrease.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\EntityFramework.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\Newtonsoft.Json.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Net.Http.Formatting.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Helpers.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Http.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Http.WebHost.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Mvc.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.Razor.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.WebPages.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\bin\System.Web.WebPages.Razor.xml
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.dll
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.pdb
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.InitialCreate.resources
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.csproj.GenerateResource.Cache
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem.resources
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem1.resources
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem2.resources
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem3.resources
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem4.resources
+C:\Users\Johannes\Documents\Visual Studio 2012\Projects\PoliticImpact\PoliticImpact\obj\Debug\PoliticImpact.Migrations.CaseItem5.resources
