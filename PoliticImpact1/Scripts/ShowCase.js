@@ -1,4 +1,4 @@
 ﻿//Frida Mattisson & Michaela Ulvhammar
-$('#ShowPopup').on('click', function () {
+$('#ShowCaseLike').on('click', function () {
     $('#').popup('open');
 })

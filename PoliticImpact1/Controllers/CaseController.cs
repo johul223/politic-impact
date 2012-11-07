@@ -28,7 +28,25 @@ namespace PoliticImpact1.Controllers
 
         public ActionResult ShowCase()
         {
+            //Här ska vi skicka data till view från databasen.
+             
             return View();
         }
+        public ActionResult HandleLikes()
+        {
+            //skickar likes till databasen och uppdaterar sidan med antalet likes
+            return View();
+        }
+        public ActionResult HandleComments()
+        {
+            //skickar commentarer till databsen och uppdaterar sidan med antalet likes
+            return View();
+        }
+        public ActionResult HandleSignatures()
+        {
+            //skickar signaturer till databasen och uppdaterar sidan med att du har signerat
+            return View();
+        }
+        
     }
 }
