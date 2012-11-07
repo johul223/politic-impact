@@ -1,0 +1,26 @@
+@model IEnumerable<PoliticImpact.Models.CaseItem>
+
+@{
+    ViewBag.Title = "Case list";
+}
+@section header{
+    <div data-role="header">
+        <h2>Case list</h2>
+        @Html.ActionLink("Add", "Create",  new { shift = -1 }, new { data_icon = "plus", data_mini = "true", @class="ui-btn-right"})
+        
+    </div>
+}
+<ul data-role="listview" data-filter="true">
+@foreach (var item in Model) {
+    <li>
+        <a href= "/CaseItems/Details/@item.ID" data-transition="slide"> 
+            <h3>@item.Title</h3>
+            <p><strong>Ägarens namn kanske</strong></p>
+            <p>@item.Text.</p>
+            <p class="ui-li-aside">4 Likes</p>
+        </a>
+     </li>
+}
+</ul>
+
+

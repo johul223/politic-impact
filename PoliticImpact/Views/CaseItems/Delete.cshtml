@@ -1,0 +1,47 @@
+@model PoliticImpact.Models.CaseItem
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>CaseItem</legend>
+
+    <div class="display-label">Owner</div>
+    <div class="display-field">@Model.Owner</div>
+
+    <div class="display-label">Title</div>
+    <div class="display-field">@Model.Title</div>
+
+    <div class="display-label">Text</div>
+    <div class="display-field">@Model.Text</div>
+
+    <div class="display-label">Published</div>
+    <div class="display-field">@Model.Published</div>
+
+    <div class="display-label">Created</div>
+    <div class="display-field">@String.Format("{0:g}", Model.Created)</div>
+
+    <div class="display-label">LastEdited</div>
+    <div class="display-field">@String.Format("{0:g}", Model.LastEdited)</div>
+
+    <div class="display-label">imageId</div>
+    <div class="display-field">@Model.imageId</div>
+
+    <div class="display-label">imageBytes</div>
+    <div class="display-field">@Html.DisplayTextFor(_ => Model.imageBytes).ToString()</div>
+
+    <div class="display-label">imageName</div>
+    <div class="display-field">@Model.imageName</div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+
+

@@ -1,0 +1,60 @@
+@model PoliticImpact.Models.CaseItem
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutNoPageDiv.cshtml";
+}
+
+<div data-role="page" data-theme="b" data-add-back-btn="true">
+    <div data-role="header">
+        <h1>@ViewBag.Title</h1>
+    </div>
+    <div data-role="content">
+        <fieldset>
+            <legend>CaseItem</legend>
+
+            <div class="display-label">Owner</div>
+            <div class="display-field">@Model.Owner</div>
+
+            <div class="display-label">Title</div>
+            <div class="display-field">@Model.Title</div>
+
+            <div class="display-label">Text</div>
+            <div class="display-field">@Model.Text</div>
+
+            <div class="display-label">Published</div>
+            <div class="display-field">@Model.Published</div>
+
+            <div class="display-label">Created</div>
+            <div class="display-field">@String.Format("{0:g}", Model.Created)</div>
+
+            <div class="display-label">LastEdited</div>
+            <div class="display-field">@String.Format("{0:g}", Model.LastEdited)</div>
+
+            <div class="display-label">imageId</div>
+            <div class="display-field">@Model.imageId</div>
+
+            <div class="display-label">imageBytes</div>
+            <div class="display-field">@Html.DisplayTextFor(_ => Model.imageBytes).ToString()</div>
+
+            <div class="display-label">imageName</div>
+            <div class="display-field">@Model.imageName</div>
+        </fieldset>
+        <a href="#popupLogin" data-rel="popup">
+            <img src="~/Content/images/share-email.png" width="75" height="75" id="ShowPopup" />
+        </a>
+        <input type="submit" value="Share" />
+    </div>
+ </div>
+
+<div data-role="popup" id="popupLogin" data-overlay-theme="b" data-theme="a" class="ui-corner-all" data-position-to="window">
+	<form>
+		<div style="padding:10px 20px;" >
+			<h3>Share</h3>
+            <a href="venta.html" data-theme="" id="ventaOption"> <img src="/Content/images/share-facebook.png" width="64" height="64"></a>
+            <a href="venta.html" data-theme="" id="lol"> <img src="/Content/images/share-email.png" width="64" height="64"></a>
+		</div>
+	</form>
+</div>
+
+
